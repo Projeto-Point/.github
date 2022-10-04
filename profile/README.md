@@ -1,4 +1,4 @@
-<img align="center" alt="Logo-Point" height="400" width="100%" src="https://github.com/Projeto-Point/point/blob/main/api-node/public/assets/imgs/Point.png">
+<img align="center" alt="Logo-Point" height="350" width="100%" src="https://github.com/Projeto-Point/point/blob/main/api-node/public/assets/imgs/Point.png">
 
 <h2>Projeto Point</h2>
 
